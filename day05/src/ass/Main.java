@@ -5,12 +5,16 @@ import java.io.*;
 public class Main {
     
     public static void main(String[] args) {
+        
         // read from console
         Console cons = System.console();
         String source = cons.readLine();
         File gol = new File(source);
         
-        ?? FileReader.ReadFile(gol);
+        // lol ur shit bro
+        FileReader.ReadFile(gol);
+        // noob
+        // suck
 
         // iterate through board
         for (int idy=0; idy < size; idy++){
